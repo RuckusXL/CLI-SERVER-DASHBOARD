@@ -20,4 +20,4 @@ Active connections
 Connected users
 CPU usage
 
-🧭 Interactive command-line menu system
+Interactive command-line menu system
