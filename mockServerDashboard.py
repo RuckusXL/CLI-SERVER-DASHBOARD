@@ -5,7 +5,6 @@
 #Author: RuckusXL
 
 from datetime import date
-from http import server
 import random
 
 #Simulates the status of the server.
